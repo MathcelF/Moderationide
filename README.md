@@ -32,7 +32,7 @@ I am open for them.
 Rewrote a lot, made stuff more efficent and 'OOP' even tho sometimes I mess up with somethings.
 
 
-#Start & Host
+# Start & Host
 To run the Bot you need python 3.10 and use the command
 python3 bot.py
 
