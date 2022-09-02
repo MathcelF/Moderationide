@@ -10,26 +10,27 @@ It was provided by X3: I rewrote it.
 
 Moderationide will be always open source.
 It is a part of boronide so support can be received in Boronide Ticket System.
+Or (will mention it often) my email: mathcelf@tutanota.com
 
 It would be nice to leave some credits for me:)
 It took a bit of time, but it is done now.
 
 ## Changes?
-In compare to Moderationide V1:
+In comparison to Moderationide V1:
 Data is stored on MongoDB, instead on the host... (Don't ask me, why it was like that)
 Different Permission System, instead of having them on the local file:
 User Data is stored on the DB (not sensitive information) such as Flags:
-Flags will be calculated and if user has certain flags, he can use the commands.
+Flags will be calculated and if the user has certain flags, he can use the commands.
 
 Remade the Verification System.
 Shame on Herrtt, he did not implement the backend somehow.
 Or shame on the other website devs.
 
 
-Project is a bit inconsistent in the style, so if you got suggestions / tips.
-I am open for them.
+The project is a bit inconsistent in the style, so if you got suggestions/tips.
+I am open to them.
 
-Rewrote a lot, made stuff more efficent and 'OOP' even tho sometimes I mess up with somethings.
+Rewrote a lot, made stuff more efficient, and 'OOP' even tho sometimes I mess up with some things.
 
 
 # Start & Host
@@ -44,4 +45,9 @@ Report the bugs / Issues anywhere.
 If it's important, please open a Ticket in Boronide
 -> I will be contacted.
 
-Bot is using the py-cord library.
+The bot is using the py-cord library.
+
+# Facit:
+
+If you need help / got questions, contact MathcelF or the  Boronide Support Team.
+Regards or anything: pleases to my email: mathcelf@tutanota.com
