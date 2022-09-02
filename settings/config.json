@@ -1,0 +1,8 @@
+{
+  "token": "MAIN-BOT-TOKEN",
+  "token1": "TESTING-BOT-TOKEN",
+  "mongodb": "MONGO-DB-URI",
+  "gid": [11111111111111111],
+  "lig": 11111111111111111,
+  "time": 300
+}
