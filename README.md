@@ -4,7 +4,9 @@ A Bot for Boronide.
 
 ## Requires:
 **Py-cord 2.1.1 or higher**
+
 `pip install -U py-cord==2.1.1`
+
 **Python 3.10 is recommended**
 
 ## About Moderationide
